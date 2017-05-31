@@ -1,0 +1,5 @@
+https://github.com/dmstr/yii2-migrate-command
+
+https://github.com/kartik-v/yii2-widget-fileinput
+
+https://github.com/yiisoft/yii2-imagine
